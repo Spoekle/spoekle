@@ -1,7 +1,8 @@
 # Hey I'm Spoekle!
 
 # About Me:
-I’m currently working on ClipSesh! and the SSRM Automation tool.<br>I’m currently enrolled at Hogeschool Utrecht for Bachelor of Science and learning more about programming by working in projects
+I’m currently working on ClipSesh! and the SSRM Automation tool.<br>I’m currently enrolled at the University of Applied Sciences
+Utrecht and learning more about programming by working in projects.
 
 
 ## Socials:
